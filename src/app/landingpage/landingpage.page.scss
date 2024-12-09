@@ -41,10 +41,11 @@
 
   .taglines {
       h1 {
-          font-size: 5vw; // Adjusts dynamically for smaller screens
+          font-size: 7vw; // Adjusts dynamically for smaller screens
           color: white;
           font-weight: bold;
           margin-bottom: 10px;
+          
       }
 
       p {
@@ -56,13 +57,13 @@
 
   .get-started-button {
       width: 80%;
-      max-width: 300px;
+      max-width: 250px;
       padding: 15px;
       font-size: 4vw; // Responsive button text
 
       font-weight: bold;
       color: #fff;
-      background-color: #011f00; // Darker green for button
+      background-color: #4B5A34; // Darker green for button
       border: none;
       border-radius: 25px;
       text-align: center;
